@@ -1,0 +1,2 @@
+"# miniproject"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/tarunnarayana18/miniproject.gitgit push -u origin main
+"# miniproject"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/tarunnarayana18/miniproject.gitgit push -u origin main
